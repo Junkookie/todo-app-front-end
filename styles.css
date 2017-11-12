@@ -1,38 +1,33 @@
 html{ 
     font-family: Arial,Helvetlca,sans-self; 
-    background-image: url('https://wallpaperscraft.com/image/vintage_magnifier_watch_book_books_postcards_74944_2560x1440.jpg')
+    background-color: white;
 }
-h1{
-    border:30px solid blue;
+/* h1{
+    border:10px solid blue;
     padding-left: 20px; 
-    background-color: #ff8080;
-} 
-
+    
+} /*
+/*
 ul{ 
     list-style: none; 
     padding: 30px ;
     margin: 30px;
     background-color: grey; 
     box-shadow:1px 2px 3px #d9d9d9;
-}
-.Container{ 
+} */
+/*.Container{ 
         width:80%;
         margin:auto;
-}
+}/*
 
 .timer-estimate{
     font-weight:normal;
-    font-size:10px;
-    border-radius:3px;  
-    padding:3px;
-    background-color: #ff8080
+    font-size:15px;
+   
 }
 
 li{ 
     font-weight:normal;
     font-size:10;
-    border:10px solid white;
-    padding:10px ;
-    background-color:#ffcc99;
-    margin-bottom: 30px; 
+    
 }
